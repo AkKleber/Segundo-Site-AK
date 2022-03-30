@@ -1,0 +1,28 @@
+
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar {
+    background-color: rgb(113, 255, 47);
+}
+
+.quem-sou {
+    background-color: rgb(0, 217, 255);
+}
+
+.margin {
+    padding: 15px;
+}
+
+.amigos {
+    background-color: rgb(230, 45, 45);
+}
+
+.familia {
+    background-color: rgb(241, 241, 22);
+}
+
+.footer {
+    background-color: grey;
+}
